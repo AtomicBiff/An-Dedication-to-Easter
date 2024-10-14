@@ -1,1 +1,28 @@
+O is a rootForm;
+an rootForm is stackable or repeatable.
 
+I is a stringForm;
+an stringForm is a squence of data.
+
+O rootForms are made of repeating strings.
+
+O,O,O,O,O;
+an rootFormString is a sequence of rootForms.
+
+
+
+
+
+
+
+
+(William is Guillaume is Bill):
+Wi, Gui, Bi;
+ll;
+ia, au;
+m, me;
+
+(Wi, Gui, Bi), (ll), (ia, au), (m, me);
+
+(), (), (), ()
+(linguistic root), (ille), (vowel), (accusative) 
